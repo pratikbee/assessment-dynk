@@ -1,0 +1,17 @@
+date,product_name,category,region,revenue,quantity,discount,rating,review_count
+2024-01-15,Widget Pro,Electronics,North,1299.99,5,10,4.5,120
+2024-01-16,Gadget Plus,Electronics,South,899.50,3,5,4.2,85
+2024-01-17,Home Kit,Home,North,450.00,10,0,4.8,200
+2024-01-18,Widget Pro,Electronics,East,1299.99,2,15,4.5,120
+2024-01-19,Style Bag,Fashion,West,89.99,20,20,3.9,45
+2024-01-20,Office Desk,Furniture,North,599.00,1,0,4.6,30
+2024-01-21,Gadget Plus,Electronics,North,899.50,7,8,4.2,85
+2024-01-22,Home Kit,Home,South,450.00,4,10,4.8,200
+2024-01-23,Widget Pro,Electronics,West,1299.99,4,12,4.5,120
+2024-01-24,Style Bag,Fashion,North,89.99,15,25,3.9,45
+2024-01-25,Office Desk,Furniture,South,599.00,2,5,4.6,30
+2024-01-26,Electronics Bundle,Electronics,East,2100.00,1,0,4.7,55
+2024-01-27,Home Kit,Home,East,450.00,8,7,4.8,200
+2024-01-28,Style Bag,Fashion,South,89.99,12,15,3.9,45
+2024-01-29,Gadget Plus,Electronics,West,899.50,6,10,4.2,85
+2024-01-30,Office Desk,Furniture,West,599.00,3,0,4.6,30
